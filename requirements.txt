@@ -1,0 +1,9 @@
+streamlit
+nltk
+speechrecognition
+pydub
+opencv-python
+numpy
+Pillow
+tensorflow
+streamlit-webrtc
